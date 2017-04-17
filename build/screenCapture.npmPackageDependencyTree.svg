@@ -25,7 +25,7 @@
 <tspan x="10" y="362">  │ │ ├── arrify@1.0.1 </tspan>
 <tspan x="10" y="378">  │ │ └─┬ micromatch@2.3.11 </tspan>
 <tspan x="10" y="394">  │ │   ├─┬ arr-diff@2.0.0 </tspan>
-<tspan x="10" y="410">  │ │   │ └── arr-flatten@1.0.1 </tspan>
+<tspan x="10" y="410">  │ │   │ └── arr-flatten@1.0.3 </tspan>
 <tspan x="10" y="426">  │ │   ├── array-unique@0.2.1 </tspan>
 <tspan x="10" y="442">  │ │   ├─┬ braces@1.8.5 </tspan>
 <tspan x="10" y="458">  │ │   │ ├─┬ expand-range@1.8.2 </tspan>

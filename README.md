@@ -1,4 +1,7 @@
-# test coverage for  [forever-monitor (v1.7.1)](https://github.com/nodejitsu/forever-monitor#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-forever-monitor.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-forever-monitor) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-forever-monitor.svg)](https://travis-ci.org/npmtest/node-npmtest-forever-monitor)
+# npmtest-forever-monitor
+
+#### basic test coverage for  [forever-monitor (v1.7.1)](https://github.com/nodejitsu/forever-monitor#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-forever-monitor.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-forever-monitor) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-forever-monitor.svg)](https://travis-ci.org/npmtest/node-npmtest-forever-monitor)
+
 #### Core forever process monitor
 
 [![NPM](https://nodei.co/npm/forever-monitor.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/forever-monitor)
@@ -104,7 +107,8 @@
     "scripts": {
         "test": "vows test/**/*-test.js --spec -i"
     },
-    "version": "1.7.1"
+    "version": "1.7.1",
+    "bin": {}
 }
 ```
 
